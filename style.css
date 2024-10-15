@@ -20,7 +20,8 @@ body {
 	position: absolute;
 	left: 50%;
 	top: 50%;
-	background-color: #999;
+	background-image: url("real.jpg");
+	background-color: #cccccc;
 	width: calc(100% - 20px);
 	height: calc(100% - 20px);
 	border-radius: 0px;
